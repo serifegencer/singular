@@ -23,8 +23,8 @@ Images From the Project
 
 
 5- Messenger Page
+![Ekran görüntüsü 2024-01-15 224942](https://github.com/serifegencer/singular/assets/117947572/19da2bfa-1bf6-4892-9749-266368bb664a)
 
-![Ekran görüntüsü 2024-01-04 025758](https://github.com/serifegencer/singular/assets/117947572/cc22781d-ff12-4a2f-bedd-ffcc850daf4e)
 
 Used Technologies
 Front-End: React, Material-UI, Socket.io-client.
