@@ -32,3 +32,4 @@ Front-End Start
 npm start
 
 Back-End Start
+npm start
